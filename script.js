@@ -40,7 +40,7 @@ async function loadFlashcards(section) {
 
 // Event listeners for button clicks
 sgOneButton.addEventListener('click', () => {
-    loadFlashcards('ch-one-study-guide.json');
+    loadFlashcards('ch-one-cards.json');
     setActiveButton(sgOneButton);
 });
 

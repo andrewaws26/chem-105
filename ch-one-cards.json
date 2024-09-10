@@ -21,7 +21,7 @@
     },
     {
         "term": "Diatomic Molecules",
-        "definition": "Elements that exist as molecules consisting of two atoms. These include H2, N2, O2, F2, Cl2, Br2, and I2. (makes # 7 on the PT)"
+        "definition": "Elements that exist as molecules consisting of two atoms. These include H2, N2, O2, F2, Cl2, Br2, and I2. (makes the number 7 on the PT"
     },
     {
         "term": "Elements",
@@ -57,7 +57,7 @@
     },
     {
         "term": "Matter",
-        "definition": "Anything that has mass and occupies space. It can be classified as either a pure substance or a mixture."
+        "definition": "Matter is anything that has mass and occupies space. It can be classified as either a pure substance or a mixture."
     },
     {
         "term": "Mixtures",
@@ -88,15 +88,39 @@
         "definition": "Antimony - Derived from the Latin word 'Stibium'."
     },
     {
+        "term": "Explains the fact.",
+        "definition": "Scientific Theory"
+    },
+    {
+        "term": "Explains the theory.",
+        "definition": "Scientific Law"
+    },
+    {
         "term": "Sn",
         "definition": "Tin - Derived from the Latin word 'Stannum'."
     },
     {
         "term": "States of Matter",
-        "definition": " Gases, liquids, solids, and plasma."
+        "definition": "The different forms in which matter can exist, which include gases, liquids, solids, and plasma."
     },
     {
         "term": "W",
         "definition": "Tungsten - Derived from the German word 'Wolfram'."
+    },
+    {
+        "term": "mass/volume",
+        "definition": "density"
+    },
+    {
+        "term": "mass x gravitational force",
+        "definition": "weight"
+    },
+    {
+        "term": "F = 9/5(c) + 32",
+        "definition": "F -> C"
+    },
+    {
+        "term": "C = 5/9 (F - 32)",
+        "definition": "C -> F"
     }
 ]

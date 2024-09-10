@@ -21,7 +21,7 @@
     },
     {
         "term": "Diatomic Molecules",
-        "definition": "Elements that exist as molecules consisting of two atoms. These include H2, N2, O2, F2, Cl2, Br2, and I2. (makes the number 7 on the PT"
+        "definition": "Elements that exist as molecules consisting of two atoms. These include H2, N2, O2, F2, Cl2, Br2, and I2. (makes # 7 on the PT)"
     },
     {
         "term": "Elements",
@@ -57,7 +57,7 @@
     },
     {
         "term": "Matter",
-        "definition": "Matter is anything that has mass and occupies space. It can be classified as either a pure substance or a mixture."
+        "definition": "Anything that has mass and occupies space. It can be classified as either a pure substance or a mixture."
     },
     {
         "term": "Mixtures",
@@ -93,7 +93,7 @@
     },
     {
         "term": "States of Matter",
-        "definition": "The different forms in which matter can exist, which include gases, liquids, solids, and plasma."
+        "definition": " Gases, liquids, solids, and plasma."
     },
     {
         "term": "W",

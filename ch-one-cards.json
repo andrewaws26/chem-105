@@ -1,19 +1,39 @@
 [
     {
+        "term": "Accuracy",
+        "definition": "How close your measurements are to the true/actual value."
+    },
+    {
         "term": "Ag",
         "definition": "Silver - Derived from the Latin word 'Argentum'."
     },
     {
-        "term": "Alka-Seltzer in Water",
-        "definition": "A mixture where Alka-Seltzer dissolves in water, forming a solution."
+        "term": "Atom",
+        "definition": "The smallest/basic structural unit of an element that retains all of its physical and chemical properties."
     },
     {
         "term": "Au",
         "definition": "Gold - Derived from the Latin word 'Aurum'."
     },
     {
+        "term": "Calories",
+        "definition": "1 Calorie (Cal) = 1000 calories (cal); 1 cal = 4.184 Joules (J)."
+    },
+    {
+        "term": "Catalyst",
+        "definition": "A substance that speeds up a chemical reaction without itself being used up."
+    },
+    {
+        "term": "Chemical Changes",
+        "definition": "Changes that result in the formation of new substances; the chemical composition changes. Example: 2H₂ + O₂ → 2H₂O."
+    },
+    {
+        "term": "Chemical Properties",
+        "definition": "Properties that can be observed by performing a chemical reaction, changing the substance's chemical composition (e.g., flammability)."
+    },
+    {
         "term": "Compounds",
-        "definition": "Substances formed when two or more elements are chemically bonded together in a simple whole number ratio. Examples H2O (Water) and NaCl (Table Salt). Each element does not retain its own identity."
+        "definition": "Substances formed when two or more elements are chemically bonded together in a simple whole-number ratio. Examples: H₂O (water) and NaCl (table salt). Each element does not retain its own identity."
     },
     {
         "term": "Cu",
@@ -21,7 +41,7 @@
     },
     {
         "term": "Diatomic Molecules",
-        "definition": "Elements that exist as molecules consisting of two atoms. These include H2, N2, O2, F2, Cl2, Br2, and I2. (makes the number 7 on the PT"
+        "definition": "Elements that exist as molecules consisting of two atoms. These include H₂, N₂, O₂, F₂, Cl₂, Br₂, and I₂ (forms a '7' shape on the periodic table)."
     },
     {
         "term": "Elements",
@@ -29,11 +49,23 @@
     },
     {
         "term": "Ethyl Alcohol (Ethanol)",
-        "definition": "A pure compound with the chemical formula C2H5OH, commonly found in alcoholic beverages."
+        "definition": "A pure compound with the chemical formula C₂H₅OH, commonly found in alcoholic beverages."
+    },
+    {
+        "term": "Energy",
+        "definition": "The ability to do work."
+    },
+    {
+        "term": "Extensive Properties",
+        "definition": "Properties that depend on the amount of substance (e.g., mass, volume)."
     },
     {
         "term": "Fe",
         "definition": "Iron - Derived from the Latin word 'Ferrum'."
+    },
+    {
+        "term": "Forms of Energy",
+        "definition": "Different types of energy, including kinetic, potential, thermal, chemical, electrical, nuclear, and radiant energy."
     },
     {
         "term": "Hg",
@@ -48,20 +80,32 @@
         "definition": "A mixture where the components are not evenly distributed, like oil and water or a salad."
     },
     {
+        "term": "Intensive Properties",
+        "definition": "Properties that are independent of the amount of substance (e.g., density, temperature, specific gravity)."
+    },
+    {
         "term": "Isopropyl Alcohol (Rubbing Alcohol)",
-        "definition": "A pure substance, chemically known as C3H8O, often used as a disinfectant or cleaning agent."
+        "definition": "A pure substance, chemically known as C₃H₈O, often used as a disinfectant or cleaning agent."
     },
     {
         "term": "K",
         "definition": "Potassium - Derived from the Latin word 'Kalium'."
     },
     {
+        "term": "Kinetic Energy",
+        "definition": "½ × mass × velocity² (½ mv²)."
+    },
+    {
+        "term": "Law of Conservation of Energy",
+        "definition": "Energy can neither be created nor destroyed; it only changes form."
+    },
+    {
         "term": "Matter",
-        "definition": "Matter is anything that has mass and occupies space. It can be classified as either a pure substance or a mixture."
+        "definition": "Anything that has mass and occupies space. It can be classified as either a pure substance or a mixture."
     },
     {
         "term": "Mixtures",
-        "definition": "A physical combination of two or more substances where each retains its own identity. If you shake it and it comes apart, then it is a mixture. Examples: include paint or sand and water."
+        "definition": "A physical combination of two or more substances where each retains its own identity. Examples include paint or sand and water."
     },
     {
         "term": "Na",
@@ -69,7 +113,7 @@
     },
     {
         "term": "Oxygen in a Hospital Tank",
-        "definition": "A pure substance, often stored as O2 in medical settings."
+        "definition": "A pure substance, often stored as O₂ in medical settings."
     },
     {
         "term": "Paint",
@@ -80,47 +124,80 @@
         "definition": "Lead - Derived from the Latin word 'Plumbum'."
     },
     {
+        "term": "Physical Changes",
+        "definition": "Changes in appearance without changing the chemical composition of the substance (e.g., snow melting, evaporation, condensation)."
+    },
+    {
+        "term": "Physical Properties",
+        "definition": "Properties that can be observed or measured without changing the chemical composition of the substance (e.g., color, odor)."
+    },
+    {
+        "term": "Potential Energy",
+        "definition": "Mass × gravitational acceleration × height (mgh)."
+    },
+    {
+        "term": "Precision",
+        "definition": "How close your measurements are to each other."
+    },
+    {
         "term": "Pure Substances",
-        "definition": "Made up of only one component and can be classified as either elements or compounds. Examples include gold (Au) and water (H2O)."
+        "definition": "Made up of only one component and can be classified as either elements or compounds. Examples include gold (Au) and water (H₂O)."
     },
     {
         "term": "Sb",
         "definition": "Antimony - Derived from the Latin word 'Stibium'."
     },
     {
-        "term": "Explains the fact.",
-        "definition": "Scientific Theory"
+        "term": "Scientific Law",
+        "definition": "Just states fact."
     },
     {
-        "term": "Explains the theory.",
-        "definition": "Scientific Law"
+        "term": "Scientific Theory",
+        "definition": "Explains the fact."
     },
     {
+        "term": "Scientific Method",
+        "definition": "A systematic approach to solving problems."
+    },
+    {
+    
         "term": "Sn",
         "definition": "Tin - Derived from the Latin word 'Stannum'."
+    },
+    {
+        "term": "Specific Gravity",
+        "definition": "Density of the substance divided by the density of water (unitless)."
     },
     {
         "term": "States of Matter",
         "definition": "The different forms in which matter can exist, which include gases, liquids, solids, and plasma."
     },
     {
+        "term": "Surroundings",
+        "definition": "Everything around the system."
+    },
+    {
+        "term": "System",
+        "definition": "The part of the universe being studied, such as the contents of a test tube or flask."
+    },
+    {
         "term": "W",
         "definition": "Tungsten - Derived from the German word 'Wolfram'."
     },
     {
-        "term": "mass/volume",
-        "definition": "density"
+        "term": "Weight",
+        "definition": "Mass × gravitational acceleration."
     },
     {
-        "term": "mass x gravitational force",
-        "definition": "weight"
+        "term": "Density",
+        "definition": "Mass divided by volume (mass/volume)."
     },
     {
-        "term": "F = 9/5(c) + 32",
-        "definition": "F -> C"
+        "term": "Celsius to Fahrenheit",
+        "definition": "F = (9/5 × C) + 32"
     },
     {
-        "term": "C = 5/9 (F - 32)",
-        "definition": "C -> F"
+        "term": "Fahrenheit to Celsius",
+        "definition": "C = (5/9) × (F - 32)"
     }
 ]

@@ -1,0 +1,31 @@
+[
+    {
+        "term": "Atomic Number",
+        "definition": "(Z) Number of protons."
+    },
+    {
+        "term": "Mass Number",
+        "definition": "(A) Number of protons."
+    },
+    {
+        "term": "Isotopes",
+        "definition": "Atoms of the same eulement that have the same number of protons but different number of neutrons."
+    },
+    {
+        "term": "W.A.A.M",
+        "definition": "Weighted Average Atomic Mass."
+    },
+    {
+        "term": "Ions",
+        "definition": "Electrically charged species that result from the loss or gain of electrons."
+    },
+    {
+        "term": "Cations",
+        "definition": "Positively charged ions that result from the loss of electrons. Use the parent name & add the word ion."
+    },
+    {
+        "term": "Anions",
+        "definition": "Negatively charged ions that result from the gain of electrons. Use the parent name & change the ending to ide & add the word ion."
+    },
+          
+]

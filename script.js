@@ -45,7 +45,7 @@ sgOneButton.addEventListener('click', () => {
 });
 
 sectionOneButton.addEventListener('click', () => {
-    loadFlashcards('flashcards-section-one.json');
+    loadFlashcards('ch-two-cards.json');
     setActiveButton(sectionOneButton);
 });
 

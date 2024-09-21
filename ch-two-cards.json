@@ -26,6 +26,218 @@
     {
         "term": "Anions",
         "definition": "Negatively charged ions that result from the gain of electrons. Use the parent name & change the ending to ide & add the word ion."
+    },   
+    {
+        "term": "Electron Configuration",
+        "definition": "The arrangement of electrons in an atom, described by the principal energy level, subshell, and number of electrons in each subshell."
     },
-          
+    {
+        "term": "Hydrogen Electron Configuration",
+        "definition": "1s¹, where 1 represents the principal energy level and s represents the subshell with 1 electron."
+    },
+    {
+        "term": "S-block Elements",
+        "definition": "Groups 1A and 2A of the periodic table, where electrons fill the s-subshell."
+    },
+    {
+        "term": "P-block Elements",
+        "definition": "Groups IIIA through VIIIA of the periodic table, where electrons fill the p-subshell."
+    },
+    {
+        "term": "D-block Elements",
+        "definition": "Transition elements where electrons fill the d-subshell."
+    },
+    {
+        "term": "F-block Elements",
+        "definition": "Inner transition elements where electrons fill the f-subshell."
+    },
+    {
+        "term": "Main Group Elements",
+        "definition": "For main group elements, the outermost principal energy level corresponds to the period number."
+    },
+    {
+        "term": "D-block Elements Energy Level",
+        "definition": "For d-block elements, the outermost principal energy level is the period number minus 1."
+    },
+    {
+        "term": "F-block Elements Energy Level",
+        "definition": "For f-block elements, the outermost principal energy level is the period number minus 2."
+    },
+    {
+        "term": "Aufbau Principle",
+        "definition": "Electrons fill the lowest energy levels first; from the bottom up."
+    },
+    {
+        "term": "Hund's Rule",
+        "definition": "For electrons to occupy the same orbital, they must have opposite spins."
+    },
+    {
+        "term": "Pauli's Exclusion Principle",
+        "definition": "If you have more than one orbital with the same energy, you cannot pair electrons until you have one in each orbital."
+    },
+    {
+        "term": "Electron Configuration Notation",
+        "definition": "Notation representing the arrangement of electrons: n = principal energy level, s/p/d/f = subshell, superscript = number of electrons in the subshell."
+    },
+    {
+        "term": "1s Orbital",
+        "definition": "The lowest energy level orbital in the atom, where electrons first fill."
+    },
+    {
+        "term": "Principal Energy Levels (n=1,2,3...)",
+        "definition": "The levels that define the distance of electrons from the nucleus, with higher numbers corresponding to electrons further away."
+    },
+    {
+        "term": "Subshells",
+        "definition": "Subdivisions of energy levels, denoted as s, p, d, and f, with each subshell holding a specific number of orbitals."
+    },
+    {
+        "term": "Number of Subshells per Energy Level",
+        "definition": "The number of subshells corresponds to the principal energy level (n). For n=1, there is 1 subshell; for n=2, there are 2 subshells, etc."
+    },
+    {
+        "term": "Maximum Number of Orbitals",
+        "definition": "Each subshell can hold a specific number of orbitals: s=1, p=3, d=5, f=7."
+    },
+    {
+        "term": "Maximum Electrons in Each Subshell",
+        "definition": "Each orbital can hold a maximum of 2 electrons. Therefore, s can hold 2, p can hold 6, d can hold 10, and f can hold 14 electrons."
+    },
+    {
+        "term": "Maximum Electrons in Energy Levels",
+        "definition": "The maximum number of electrons per principal energy level can be calculated using the formula 2n². For example, n=2 holds up to 8 electrons."
+    },
+    {
+        "term": "Electron Configuration",
+        "definition": "Describes the way electrons are arranged around the nucleus."
+    },
+    {
+        "term": "Valence Electrons",
+        "definition": "Electrons in the outermost principal energy level; the only electrons that take part in chemical reactions."
+    },
+    {
+        "term": "Core Electrons",
+        "definition": "Electrons located between the valence electrons and the nucleus."
+    },
+    {
+        "term": "Group 1A",
+        "definition": "Alkali Metals."
+    },
+    {
+        "term": "Group 2A",
+        "definition": "Alkaline Earth Metals."
+    },
+    {
+        "term": "Group 6A",
+        "definition": "Chalcogens."
+    },
+    {
+        "term": "Group 7A",
+        "definition": "Halogens."
+    },
+    {
+        "term": "Group 8A or Group 18",
+        "definition": "Inert Gases/Noble Gases."
+    },
+    {
+        "term": "Group 8A/IA",
+        "definition": "Contains 5 elements; no known use yet because of element 114."
+    },
+    {
+        "term": "Periodic Table",
+        "definition": "Organizes elements by increasing atomic number and groups elements with similar properties into families."
+    },
+    {
+        "term": "Group Families of the Periodic Table",
+        "definition": "The periodic table consists of 18 groups or families."
+    },
+    {
+        "term": "Periods of the Periodic Table",
+        "definition": "The periodic table consists of 7 horizontal rows called periods."
+    },
+    {
+        "term": "Main Group Elements",
+        "definition": "Representative elements in groups IA to VIIIA."
+    },
+    {
+        "term": "Transition Elements",
+        "definition": "Elements in the middle section of the table, labeled as groups IB to VIIIB."
+    },
+    {
+        "term": "Inner Transition Elements",
+        "definition": "Elements in the bottom two rows, called inner transition metals (lanthanides and actinides)."
+    },
+    {
+        "term": "Mendeleev and the Periodic Table",
+        "definition": "Dmitri Mendeleev organized the first periodic table based on increasing atomic mass."
+    },
+    {
+        "term": "Metals, Metalloids, and Non-metals",
+        "definition": "The periodic table is divided into metals, metalloids, and non-metals."
+    },
+    {
+        "term": "Electromagnetic Spectrum",
+        "definition": "Wavelengths range from short (high energy) to long (low energy), represented by VIBGYOR."
+    },
+    {
+        "term": "Niels Bohr's Atomic Model",
+        "definition": "Electrons are arranged in fixed energy levels (n) around the nucleus. Only worked for the hydrogen atom."
+    },
+    {
+        "term": "Quantized Energy",
+        "definition": "Energy is absorbed or emitted in discrete amounts called quanta or packets."
+    },
+    {
+        "term": "Excitation and Relaxation Process",
+        "definition": "Excitation (endothermic) absorbs energy, and relaxation (exothermic) releases energy, causing electron transitions between levels."
+    },
+    {
+        "term": "Atomic Orbitals",
+        "definition": "Regions in space where the probability of finding an electron is highest (electron cloud)."
+    },
+    {
+        "term": "Maximum Electrons in an Orbital",
+        "definition": "An orbital can hold a maximum of 2 electrons."
+    },
+    {
+        "term": "Gamma Rays (γ)",
+        "definition": "Electromagnetic rays that have no charge, are the lightest, fastest moving, and most penetrating."
+    },
+    {
+        "term": "E. Rutherford's Gold Foil Experiment",
+        "definition": "Demonstrated that most of the atom is empty space, with the mass concentrated in a small, dense, positively charged nucleus at the center."
+    },
+    {
+        "term": "Spectroscopy",
+        "definition": "The absorption and emission of light by atoms, where energy is proportional to wavelength."
+    },
+    {
+        "term": "Wave Properties",
+        "definition": "Energy is proportional to the amplitude of the wave, and inversely proportional to the wavelength."
+    },
+    {
+        "term": "Speed of Light",
+        "definition": "The speed of light is 3.0 x 10^8 meters per second."
+    },
+    {
+        "term": "John Dalton's Atomic Theory",
+        "definition": "Proposed that atoms are indivisible particles that combine in simple whole-number ratios to form compounds."
+    },
+    {
+        "term": "Atoms of a Particular Element",
+        "definition": "Atoms of a particular element have identical properties (false in the case of isotopes)."
+    },
+    {
+        "term": "Isotope",
+        "definition": "Atoms of the same element with different numbers of neutrons, resulting in different atomic masses."
+    },
+    {
+        "term": "Chemical Change",
+        "definition": "Involves joining, separating, or rearranging atoms."
+    },
+    {
+        "term": "Relationship Between Energy and Wavelength",
+        "definition": "Energy ∝ 1/wavelength"
+    }
+              
 ]
